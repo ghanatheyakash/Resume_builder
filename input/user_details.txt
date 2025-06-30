@@ -1,0 +1,3 @@
+Name: John Doe
+Email: john@example.com
+Skills: Python, Data Analysis, Django
