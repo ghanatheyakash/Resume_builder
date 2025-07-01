@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI-Powered Resume Builder
 
 An intelligent resume generator that uses Llama 3 8B to create targeted resumes based on job descriptions. The system processes job URLs, extracts requirements, and generates optimized resumes with multiple template options.
@@ -239,3 +240,6 @@ If you encounter any issues:
 ---
 
 **Happy Resume Building! 🚀**
+=======
+# Resume_builder
+>>>>>>> 4e024821772782f93d70630429485dc15fc08ed3
