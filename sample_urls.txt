@@ -1,0 +1,14 @@
+# Sample job URLs for testing
+# Add your job URLs here, one per line
+# Remove the # comments when using
+
+# Example LinkedIn job URLs:
+# https://www.linkedin.com/jobs/view/software-engineer-at-company-name
+
+# Example Indeed job URLs:
+# https://www.indeed.com/viewjob?jk=job_id_here
+
+# Example Glassdoor job URLs:
+# https://www.glassdoor.com/Job/job-title-company-location
+
+# Add your actual job URLs below: 
