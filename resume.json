@@ -1,0 +1,148 @@
+{
+    "header": {
+      "full_name": "John Smith",
+      "title": "Machine Learning Developer",
+      "email": "john.smith@example.com",
+      "phone": "(555) 123-4567",
+      "linkedin": "https://www.linkedin.com/in/johnsmith/",
+      "github": "https://github.com/johnsmith"
+    },
+    "technical_skills": {
+      "languages": ["R", "Python", "SQL", "SAS", "Django"],
+      "tools_technologies": ["SciPy", "Spark", "Pandas", "Hdfs", "Hadoop MapReduce", "Tableau", "Tensor Flow", "Keras", "Power Bl", "Excel", "Azure", "ML Ops"],
+      "ides_text_editors": ["Jupyter", "PyCharm", "Visual Studio", "Excel", "Spyder", "R Studio", "MATLAB", "Notepad++", "Cube JOE"],
+      "cloud": ["GCP", "Azure", "AWS"],
+      "automation_tools": ["Maven", "Jenkins", "GIT", "AWS Cloud CICD"],
+      "olap_tools": ["Tableau", "SSAS", "Business Objects"],
+      "databases": ["MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle"],
+      "web_development": ["Flask", "HTML", "CSS"],
+      "python_programming_skills": ["Tensor flow", "Keras", "NLTK", "Scipy", "PySpark", "pandas", "numpy", "Plotly", "Seaborn", "Matplotlib", "scikit-learn", "Data Pre-processing", "Web Scraping", "Data Extraction", "Django", "Open CV"]
+    },
+    "education": [
+      {
+        "institution": "University of Technology",
+        "location": "California, USA",
+        "degree": "Master of Computer Science",
+        "start_year": 2022,
+        "end_year": 2024
+      }
+    ],
+    "career_objective": "To leverage my expertise 5+ years in machine learning, data analysis, and artificial intelligence to develop innovative solutions that solve complex problems and enhance decision-making processes. I aim to work in a dynamic environment where I can apply my skills to drive impactful projects while continuously learning cutting-edge technologies to contribute to organizational growth and personal development.",
+    "professional_summary": [
+      "5+ years of professional IT expertise in Data Science, Machine Learning, Reinforcement Learning, Predictive Analytics, Project development, implementation, deployment, and maintenance using big data technologies.",
+      "Good Understanding of Azure Big data technologies like Azure Data Lake Analytics, Azure Data Lake Store, Azure Data Factory, and Azure Data Bricks",
+      "Setting Up AWS and Microsoft Azure with Databricks, Databricks Workspace for Business Analytics, Manage Clusters in Databricks.",
+      "Worked on end-to-end data pipeline starting from data collection, cleaning, Pre-processing, model building and deploying.",
+      "Implemented short-term and long-term Data Science & Analytics strategies for the current business problem and presented innovative solutions to the clients.",
+      "Designed and developed front-end and back-end applications with machine learning capabilities (Python, PHP, java Script/Node jS), Utilizing web frameworks like Django, Flask, Laravel, React jS and VueJS",
+      "Tech led for multiple production Al/ML projects, leading teams of 4+ Software and ML engineers, automated machine learning pipelines in Kube flow.",
+      "Worked with Business Analyst's and Product Managers to frame a problem, both mathematically and within the business context.",
+      "Researched and applied machine learning algorithms in the areas of analytics, computer-vision, and NLP and time series analysis.",
+      "Technical expertise with data models, data mining, and segmentation techniques.",
+      "Expertise in integrating machine learning solutions with Hadoop, Spark, Python, SQL, Ab lnitio, AWS; Processed the data from Kafka pipelines from topics and show the real-time streaming in dashboards.",
+      "Experienced in leveraging Al & Machine learning capabilities in smart factories to provide hyper automation and real time analytics.",
+      "Working knowledge on various deployment tools like docker, Kubernetes and Jenkins; Capable in building vast Neural Networks.",
+      "Develop & Implement NLP models (topic modeling semantic search, Q&A answering, chat bots, etc.) for real-time inference on text data.",
+      "Delivered multiple Ml solutions in Cloud for the Sales and Marketing team, hat directly contributed to the top-line growth of the business.",
+      "Define clear target performance metrics from ambiguous the client's requirement and accomplish them at a fast pace.",
+      "Adept at multitasking, working independently, and as part of a team as required; Very flexible at adapting to changing client needs and deadlines. Possesses strong problem-solving and communication skills.",
+      "Proficient in Machine Learning techniques (Supervised Unsupervised, and Reinforcement Learning) and Statistical Modeling; Experienced in building forecasting models using various Machine Learning algorithms and Deep Learning architectures."
+    ],
+    "work_experience": [
+      {
+        "title": "Sr. Machine Learning Engineer",
+        "company": "TechCorp Insurance",
+        "description": "TechCorp Insurance is one of the largest and most recognized auto insurance providers. I optimize algorithms to improve prediction accuracy and reduce computational complexity, and ensure models are monitored post-deployment for performance and accuracy, implementing retraining as needed.",
+        "environment": ["GPT", "Emails", "TS transformer", "PDG", "ANN", "AUC", "campaign data", "monitor", "retrain", "ETL Pipelines", "AWS", "ML Ops", "Docker", "Kubernetes", "Databricks", "spark", "snowflake"],
+        "location": "San Francisco, California, USA",
+        "dates": "Nov 2023 - Present",
+        "key_responsibilities": [
+          "Fine-tuned GPT-3 to perform personalization of cold emails, increasing email open rates by 20%, response rates by 4%, and conversion rates by 2%.",
+          "Minimized dependency on OpenAI’s GPT-3 due to cost overhead by fine-tuning an in-house TS transformer, reducing expenses by 60%.",
+          "Leveraged Retrieval-Augmented Generation (RAG) models to dynamically retrieve and summarize insurance policy data, improving chatbot accuracy and increasing customer engagement by 15%.",
+          "Integrated multi-agent systems for automated insurance claim handling, reducing processing time by 30% and improving fraud detection.",
+          "Developed autonomous AI agents for real-time personalization in customer interactions, leading to a 25% reduction in response time and improved user experience.",
+          "Collaborated on the PDG (Predictive Demand Generation) feature, training an ANN to identify potential buyers, achieving an AUC score of 0.81.",
+          "Designed agent-based modeling (ABM) simulations to predict customer churn, enabling proactive retention strategies and increasing policy renewals by 12%.",
+          "Innovated a Business Intelligence tool, enabling users to leverage AI-driven insights from past sales campaigns, leading to a 10% increase in sales.",
+          "Built multi-agent reinforcement learning (MARL) systems to optimize insurance underwriting, reducing risk assessment time by 20%.",
+          "Developed a universal shopper profile model capable of detecting objects in uploaded images, ensuring a personalized shopping experience.",
+          "Designed real-time ML pipelines that automatically run, monitor, and retrain client models, ensuring adaptive learning based on customer interactions and historical data trends.",
+          "Implemented an AI-powered decision-making agent for personalized policy recommendations, improving cross-sell conversions by 8%.",
+          "Built and deployed ETL Pipelines for both new and existing models, streamlining data ingestion and processing.",
+          "Developed a ML Ops framework with feature engineering, data pre-processing, data versioning, model evaluation, model versioning, batch inference, and automated notifications for model retraining.",
+          "Replaced traditional forecasting models with deep learning-based forecasting models, leading to significant accuracy improvements.",
+          "Built an AI-driven autonomous forecasting agent using Reinforcement Learning, reducing forecast deviations from 15% to 3%.",
+          "Worked on Databricks and created Delta Lake tables, improving data storage and retrieval efficiency.",
+          "Deployed real-time ML models with RAG-based retrieval mechanisms, enhancing customer insights and reducing irrelevant recommendations."
+        ]
+      },
+      {
+        "title": "Sr. Machine Learning Engineer",
+        "company": "HealthTech Solutions",
+        "description": "HealthTech Solutions is a non-profit healthcare organization, known for providing comprehensive advancing healthcare innovation; it is one of the largest integrated healthcare systems. I was involved in developing advanced data-driven solutions to improve healthcare delivery, enhance patient outcomes, and optimize operations.",
+        "environment": ["Apache Airflow", "Data Pipelines", "ML models", "ETL", "GPU", "pipelines", "AWS", "GCP", "Google Cloud environment", "Kubernetes", "Azure Container Service (ACS)", "ML Ops Pipeline", "Cl/CD", "data pipelines", "Python", "Scala", "NLP"],
+        "location": "Los Angeles, California, USA",
+        "dates": "Nov 2022 - Oct 2023",
+        "key_responsibilities": [
+          "Integrated RAG pipelines with vector databases like FAISS, Pinecone, and Weaviate, improving the accuracy and efficiency of AI-driven search and recommendation systems.",
+          "Implemented Apache Airflow for authoring, scheduling and monitoring Data Pipelines; designed, developed, and deployed machine learning models for applications like predictive analytics, patient care optimization, and operational efficiency.",
+          "Collaborated with data engineers to build pipelines that process and prepare healthcare data for ML models.",
+          "Experienced in ETL concepts, building ETL solutions and data modeling; leveraged cloud and GPU computing technologies for automated machine learning and analytics pipelines.",
+          "Involved in creating the notebooks for moving data from raw to stage and then to curated zones using Azure Databricks.",
+          "Deployed Windows Kubernetes (K8s) cluster with Azure Container Service (ACS) and utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test, and Octopus Deploy.",
+          "Built ML Ops Pipeline Monitoring System with Azure Databricks, Data Factory, and Logic App with MLflow to detect data and model drift and trigger alerts for retraining stale models.",
+          "Leveraged Azure ML experiments to submit and track different runs; used Blob storage for data storage and Azure Container Instance for deploying models to production.",
+          "Implemented ML Ops guide from business requirement gathering till model operationalization.",
+          "Led data operations for ML workflows at Confidential to reduce order processing errors at leading international restaurant chains via computer vision solutions for real-time analytics.",
+          "Created data pipelines for business reports and processed streaming data using Kafka on-premises cluster.",
+          "Developed highly complex Python and Scala code that is maintainable, easy to use, and satisfies application requirements for data processing and analytics.",
+          "Deployed machine learning models and pipelines using Docker and Kubernetes architectures; worked on price optimization which increased sales and profits.",
+          "Conducted machine learning proof-of-concepts and architected/led production of state-of-the-art intelligent solutions that deliver business value and continuous innovation.",
+          "Drove vision of the machine learning team in areas of fundamental algorithms, NLP, computer vision, and machine learning platforms/infrastructure.",
+          "Worked closely with Supply Chain Management team to deliver the right quantity of products to stores based on demand, using forecasting models and Docker/Kubernetes data pipelines.",
+          "Built a modern data & advanced analytics platform on AWS to acquire data from multiple sources, centralize and catalog data assets, enable secure access control, accelerate AI & ML models and pipelines, and automate deployment."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Global Finance Group",
+        "description": "Global Finance Group, Inc. is a leading global investment banking, securities, and investment management firm that provides a wide range of financial services to corporations. I analyze large, structured and unstructured datasets to derive insights for ML applications, and build and maintain scalable ML pipelines and frameworks to support model deployment and monitoring.",
+        "environment": ["Hadoop", "Big Data analytic", "Pig", "Hive Hbase", "Oozie", "Sqoop", "Kafka", "Spark", "Cloudera", "algorithms", "Snowflake", "Tableau", "AWS", "Lambda"],
+        "location": "New York, USA",
+        "dates": "May 2021 - Jul 2022 ",
+        "key_responsibilities": [
+          "Experienced in designing and deploying Hadoop clusters and different Big Data analytic tools including Pig, Hive Hbase, Oozie, Sqoop, Kafka, and Spark with Cloudera distribution.",
+          "Developed a scalable and configurable Auto ML solution involving multiple regression and classification algorithms that optimizes features, algorithms, & hyperparameters; reduced experimentation time by weeks.",
+          "Configured, deployed, and maintained multi-node Dev and Test Kafka clusters; proficient with Snowflake architecture and concepts; created a logistic regression model within GCP BigQuery.",
+          "Proficient in building interactive visualization dashboards in Tableau; built an application to automatically predict crop type, plant type, pests, insects, and fungi affecting crops using images.",
+          "Implemented various neural network architectures to deploy vision models into a web application.",
+          "Worked on computer vision (YOLO algorithm) integrated with AWS DeepLens, AWS Recognition, Greengrass, and Lambda to identify intruders.",
+          "Built predictive and forecasting models to forecast rain, soil fertility, and other environmental features; provided guidance to farmers via field representatives, improving crop yield.",
+          "Developed a recommendation system to suggest the best pesticides, fertilizers, and crop types based on soil conditions, water availability, and budget."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Energy Solutions Inc",
+        "description": "Energy Solutions Inc is one of the world's largest publicly traded energy companies with global presence in exploration, production, refining, and marketing of oil and gas. I developed models for renewable energy projects and improving energy efficiency.",
+        "environment": ["SMEs", "ETL", "Pig", "Hadoop", "BATCH", "GRAPHX", "Spark", "Context", "Spark-SQL", "Postgre SQL", "Data Frame", "Open Shift", "Talend", "pair RDD's", "Python", "Tableau", "Mongo OB", "OLAP", "Tensor Flow"],
+        "location": "Houston, Texas, USA",
+        "dates": ["Mar 2020 - Apr 2021"],
+        "key_responsibilities": [
+          "Collaborated with Business Analysts and SMEs across departments to gather business requirements and provide oversight of long- and short-term technical project initiatives.",
+          "Partnered with ETL developers to ensure data quality and maintain the data warehouse using Pig.",
+          "Integrated Hadoop clusters with Spark engine to perform BATCH and GRAPHX operations.",
+          "Explored Spark optimizations to improve performance of existing Hadoop algorithms using Spark Context and Spark-SQL.",
+          "Enabled ML tools and platforms within Advanced Analytics & Big Data team, supporting data science needs for the platform marketing team.",
+          "Involved in defining source-to-target data mappings, business rules, and data definitions; created Informatica mappings using joiner, aggregate, expression, filter, and update strategy transformations.",
+          "Generated predictive analytics reports using Python and Tableau, visualizing model performance and prediction results; provided BI analysis via interactive OLAP tools.",
+          "Developed a chatbot that designs a resume by asking necessary questions, storing responses in Mongo OB and generating a downloadable resume template.",
+          "Extracted user responses from Mongo OB and populated a resume template for download.",
+          "Developed an application that forecasts stock prices using TensorFlow and Keras, with auto buy/sell features based on predictions.",
+          "Built forecasting models using various neural architectures (LSTMs, RNNs) to automate trading decisions."
+        ]
+      }
+    ]
+  }
+  
